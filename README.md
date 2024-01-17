@@ -1,4 +1,4 @@
-# HTML, CSS, JS, BEM. Кастомизация селектов и чекбоксов, работа со swiper.js, работа с яндекс API.
-    Адаптивная верстка по подробному макету figma.
-    Итоговая самостоятельная работа в рамках курса "Веб верстка базовый уровень" скиллбокс.
-    Конец января - начало февраля 2023
+# HTML, CSS, JS, BEM, custom select and custom checkbox, work with swiper.js and Yandex API.
+  My first big page layout project.
+  Adaptive page with responsive interface. I recommend looking at the link to the project.
+  January 2023
